@@ -4,18 +4,17 @@ Yanhike is currently in development as of October 2026 , so changes to schematic
 Student Project
 
 -------
-Dev1 - features
-4-Layer board
-ESP32-S3R8
-GNSS
-Altitude Sensing
-Temp/Humidity Sensing
-Magnetometer
-6-Axis IMU
-SD-card slot
-i2c Display testpoints
+Dev1 - features,
+4-Layer board,
+ESP32-S3R8,
+GNSS,
+Altitude Sensing,
+Temp/Humidity Sensing,
+Magnetometer,
+6-Axis IMU,
+SD-card slot,
+I2C display testpoints,
 MIP display connector
-
 -------
 the idea -
 
