@@ -5,7 +5,6 @@ Student Project
 
 -------
 Dev1 - features,
-4-Layer board,
 ESP32-S3R8,
 GNSS,
 Altitude Sensing,
