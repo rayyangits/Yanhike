@@ -1,3 +1,7 @@
+The finished product of Yanhike intends to be a modular solution , by itself its just a watch face but with the option to be placed into any sort of case or mount that you'd like. Whether you'd like it clipped to your belt, onto a backpack strap , the choice is yours. 
+
+Yanhike is currently in development as of October 2026 , so changes to schematics and layout are highly likely.
+Student Project
 
 The premise behind Yanhike is entirely based off of my dislike for watches and my love for hiking .
 
@@ -5,7 +9,5 @@ Just like many other avid hikers, I love the idea of having a device that logs a
 
 Yanhike however takes a different approach . Why limit yourself to a watch when there are so many other accessories that can be adapted to the same role as a garmin? 
 
-The finished product of Yanhike intends to be a modular solution , by itself its just a watch face but with the option to be placed into any sort of case or mount that you'd like. Whether you'd like it clipped to your belt, onto a backpack strap , the choice is yours. 
+Please note that the DRC violations visible in the layout images are false positives. Kind regards
 
-Yanhike is currently in development as of October 2026 , so changes to schematics and layout are highly likely.
-Student Project
