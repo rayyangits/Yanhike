@@ -12,8 +12,8 @@ Temp/Humidity Sensing,
 Magnetometer,
 6-Axis IMU,
 SD-card slot,
-I2C display testpoints,
-MIP display connector
+MIP display connector,
+I2C display testpoints
 -------
 the idea -
 
