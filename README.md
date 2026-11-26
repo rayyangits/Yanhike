@@ -15,6 +15,8 @@ SD-card slot,
 MIP display connector,
 I2C display testpoints
 -------
+TrueYanhike - latest schematics revision : [TrueYanhike/TrueYanhike_Schematics.pdf](TrueYanhike/TrueYanhike_Schematics.pdf)
+-------
 the idea -
 
 The premise behind Yanhike is entirely based off of my dislike for watches and my love for hiking .
