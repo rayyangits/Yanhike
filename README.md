@@ -25,3 +25,8 @@ Yanhike however takes a different approach . Why limit yourself to a watch when 
 
 Please note that the DRC violations visible in the layout images are false positives. Kind regards
 
+
+-------
+Repository layout -
+
+- [Dev1/](Dev1/) : first development revision (schematics, board views, layout images)
